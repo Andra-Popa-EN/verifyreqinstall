@@ -2,3 +2,4 @@ setuptools == 60.10.0
 
 requests[security]
 
+pymongo[mongo]
